@@ -6,7 +6,7 @@
  - 启动脚本（输入数据部分需自己定义）：train.py
  
 ### 模型网络结构
- ![image](图片的绝对路径)
+ ![image](https://github.com/bulong/MANM/blob/master/model.png)
 
 ### 在线模型训练及部署
  - python train.py
